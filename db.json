@@ -1,7 +1,6 @@
-{
-  "array": [
-    1,
-    2,
-    3
-  ]
-}
+{ 
+  "title": "Python Requests", 
+  "body": "Requests are awesome", 
+  "userId": "1", 
+  "id": 101 
+} 
